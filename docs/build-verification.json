@@ -1,0 +1,28 @@
+{
+  "application": "Free Kicks",
+  "package": "com.kejing.spatialarcade.curve",
+  "versionName": "0.16",
+  "versionCode": 16,
+  "tag": "v0.16.0",
+  "buildType": "release",
+  "debuggable": false,
+  "tests": {
+    "tests": 75,
+    "failures": 0,
+    "errors": 0,
+    "skipped": 0
+  },
+  "apk": "Free-Kicks-v0.16.0-arm64.apk",
+  "bytes": 43836937,
+  "sha256": "05cbffe3624af4a05d9fb76160278d6b571bbffa0b4ab68215c692afafcbd012",
+  "signing": "Dedicated local release key; certificate in signature.txt. No private key is published.",
+  "assets": [
+    "assets/dexopt/baseline.prof",
+    "assets/dexopt/baseline.profm",
+    "assets/A-free-kick.glb",
+    "assets/A-selector-ball.glb",
+    "assets/goal.wav",
+    "assets/kick.wav"
+  ],
+  "nativeReleaseAcceptance": "Pending; existing screenshots are accepted native development baseline evidence."
+}

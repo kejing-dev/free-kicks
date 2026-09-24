@@ -1,0 +1,18 @@
+Verifies
+Verified using v1 scheme (JAR signing): false
+Verified using v2 scheme (APK Signature Scheme v2): true
+Verified using v3 scheme (APK Signature Scheme v3): false
+Verified using v3.1 scheme (APK Signature Scheme v3.1): false
+Verified using v3.2 scheme (APK Signature Scheme v3.2): false
+Verified using v4 scheme (APK Signature Scheme v4): false
+Verified for SourceStamp: false
+Number of signers: 1
+V2 Signer: certificate DN: CN=Free Kicks Release
+V2 Signer: certificate SHA-256 digest: a1e92f493589ffc82aadafd0af0db0c89585423ac79131aad748c08c8ec0bab5
+V2 Signer: certificate SHA-1 digest: acd1e93ee31de647e1c02b4638e6d879ffed4498
+V2 Signer: certificate MD5 digest: aa16619e301973f8200b3726e8159a1f
+V2 Signer: key algorithm: RSA
+V2 Signer: key size (bits): 3072
+V2 Signer: public key SHA-256 digest: 1fde2e4f9486ea56fbe1389c40c5377a6eda293c22b6bc4794fdbac92bd46cea
+V2 Signer: public key SHA-1 digest: de9496afe8764b20079046cc7868af5cf5fd124b
+V2 Signer: public key MD5 digest: 79b9ec4361129e5c8ca084b83167d90d
