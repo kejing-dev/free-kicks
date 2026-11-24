@@ -14,8 +14,8 @@ android {
         resValue("string", "spatial_window_size", "1160x900x600")
         minSdk = 35
         targetSdk = 35
-        versionCode = 17
-        versionName = "0.16.1"
+        versionCode = 18
+        versionName = "0.16.2"
 
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
         ndk { abiFilters.add("arm64-v8a") }
